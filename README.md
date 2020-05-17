@@ -9,4 +9,5 @@ It includes implementations of
 - memcpy()
 
 among other things
+
 *This library isn't optimized and has one only purpose : **pedagogy**.*
