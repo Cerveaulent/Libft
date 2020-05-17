@@ -8,6 +8,6 @@ It includes implementations of
 - strcmp()
 - memcpy()
 
-among other things
+among other things.
 
 *This library isn't optimized and has one only purpose : **pedagogy**.*
