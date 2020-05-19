@@ -14,3 +14,4 @@ among other things.
 
 [Libft main page](https://github.com/Cerveaulent/Libft)
 
+[42 Lyon School Projects](https://github.com/Cerveaulent/42_Lyon_School_Projects/blob/master/README.md)
